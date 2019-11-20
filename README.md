@@ -9,7 +9,7 @@ The dataset analysed includes 7233 Airbnb apartments in the city of Valencia (Sp
 
 ## Purpose
 
-The purpose of the analysis is to gain more understanding of the characteristics of Airbnb offer in the city of Valencia and how price listings are affected for companys acting as hosts in Airbnb in the city of Valencia. I am focusing on answering the following questions:
+The purpose of the analysis is to gain more understanding of the characteristics of Airbnb offer in the city of Valencia and how price listings are affected for companies acting as hosts in Airbnb in the city of Valencia. I am focusing on answering the following questions:
 
 - What neighbourhoods have highest average Airbnb price listings in the city of Valencia?
 - What neighbourhoods have greater proportion of listings with multiple listing-owners?
