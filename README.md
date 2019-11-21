@@ -28,5 +28,7 @@ These are the main findings of the analysis:
 
 
 ## Acknowledgements
+- The dataset has been collected and made accessible publicly by Murray Cox through his site http://insideairbnb.com. The data is provided under a Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication" license.
+
 - The author of function `coef_weights` is Udacity(r) and is found as material in the Udacity Data Science Nanodegree Program(r). This function has been used to show coefficients of the fitted model in order of importance for the prediction.
 
